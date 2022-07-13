@@ -10,7 +10,9 @@ tags:
 ---
 
 Since taking a job as a data scientist three months ago, I've spoken with multiple political science PhD students who are interested in potentially making the same transition. This post synthesizes what I've said in those conversations with what I've learned in my first three months on the job, and I hope it will be helpful to anyone in the same position I was six months ago.
+
 <!--more-->
+
 As I mentioned in my [previous post](/posts/2022/03/so-it-goes), I'm drawing inferences from an *n* of one, so take anything I say with a hefty grain of salt.[^time] While I'm structuring this post largely as pieces of advice, keep in mind that these were things that worked for me, and may not generalize.[^negotiation]
 
 [^time]: Three months is also [far too short a time](https://archive.org/details/Science_Fiction_Quarterly_New_Series_v04n05_1956-11_slpn/page/n5/mode/2up?view=theater) to reach a definitive conclusion on this topic.

@@ -8,23 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Greetings! I am a lecturer and researcher in [Department of Geodetic Engineering](http://geodesi.ugm.ac.id/), [Universitas Gadjah Mada Yogyakarta](https://www.danylaksono.com/www.ugm.id). My research interests are in the field of 3D Geospatial Information, including 3D modeling using structure from motion, analysis and visualization. I also work on gamification and crowdsourcing 3D geospatial data using location-based augmented reality. As a side project I also utilize spatial data mining from social media data to obtain information for behavioral studies, espescially those related to geospatial visualization and insights.
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+I also have special interest in NoSQL database for geospatial apllication, and thus I often develop WebGIS app using MEAN framework (MongoDB, ExpressJS, Angular and NodeJS), as well as hybrid framework based on Angular (Ionic). I love opensource and would promote the use of open source software whenever available as alternative to paid ones.
+
+I believe that the future of Geomatics would be large and larger scale of geospatial data: whether on data acquisition, analysis and visualization (imagine a 1:1 3D realtime model of the real-world!). Thus I am eager to the discussion on Digital Twin technologies from geospatial point-of-view. Should you find my papers or articles interesting, I’d love to have a discussion :)
