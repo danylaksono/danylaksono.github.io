@@ -85,11 +85,11 @@ author:
   name             : "Dany Laksono"
   avatar           : "profile.jpg"
   bio              : "Geospatial Data Detective"
-  location         :
+  location         : "London, UK"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  orcid            : "https://orcid.org/0000-0002-8503-5274"
+  googlescholar    : "https://scholar.google.com/citations?user=LsZIhbcAAAAJ&hl=en"
   email            : "dany.laksono@city.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -116,7 +116,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCHh_-wo9ur9zx4DJO30F0ug"
   wikipedia        :
 
 
