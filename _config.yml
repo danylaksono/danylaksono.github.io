@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dany Laksono"
 title_separator          : "-"
 name                     : &name "Dany Laksono"
-description              : &description "Geospatial Data Detective"
+description              : &description "Geodatavis"
 url                      : https://danylaksono.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danylaksono/danylaksono.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Dany Laksono"
   avatar           : "profile.jpg"
-  bio              : "Geodatanalyst"
+  bio              : "Geospatial Data Detective"
   location         : "London, UK"
   employer         :
   pubmed           :
