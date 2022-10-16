@@ -194,7 +194,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "https://blog.danylaksono.com"
+      path: ""
       type: posts
     values:
       layout: single
