@@ -78,13 +78,13 @@ install_github("jayrobwilliams/RWmisc")
 I also have a number of other software resources focused on making computation and academic life easier:
 
 - [The template](https://github.com/jayrobwilliams/JobMarket) I use for my academic job market materials
-    - Fill in school/position information in one file and it populates to all statements
-    - Generate summary statistics from teaching evaluations and integrate into statements
-    - Combine multiple teaching evaluations into a single portfolio document
-    - Do all of this programmatically with GNU Make!
+  - Fill in school/position information in one file and it populates to all statements
+  - Generate summary statistics from teaching evaluations and integrate into statements
+  - Combine multiple teaching evaluations into a single portfolio document
+  - Do all of this programmatically with GNU Make!
 - [The template](https://github.com/jayrobwilliams/UNC-Dissertation-Template) I used for my dissertation
-    - This satisfied the formatting requirements at UNC in 2019
-    - Some tweaking likely required to use at another institution or in the future
+  - This satisfied the formatting requirements at UNC in 2019
+  - Some tweaking likely required to use at another institution or in the future
 - [Scripts](https://github.com/jayrobwilliams/Teaching) that I use to save time on various teaching-related tasks like grading
 - [Functions](https://github.com/jayrobwilliams/ComputerVision) for extracting still frames from videos and information from images in Python using OpenCV
 - [Compiling OpenCV](/files/html/OpenCV_Install.html) from source for Anaconda virtual environments instead of Homebrew ones or system Python installations
