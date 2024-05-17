@@ -5,8 +5,6 @@ header:
   og_image: "teaching/pdp.png"
 ---
 
-## Teaching Materials
-
 All the following teaching materials are given in Bahasa. Some corresponding recordings can be found in my [Youtube Channel](https://www.youtube.com/@danylaksono). The numbers correspond to the week I'm teaching the materials.
 
 Feel free to use these materials in your own teaching or research, _with due attribution_. If you have any questions or feedback, please don't hesitate to reach out.
