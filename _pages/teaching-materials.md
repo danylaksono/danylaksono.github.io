@@ -48,3 +48,5 @@ Feel free to use these materials in your own teaching or research **with due att
 - [05. Notasi diagram dan Pemodelan ER](</files/pdf/teaching-materials/dbms/05 - Notasi Diagram dan Pemodelan ER.pdf>)
 - [11. Latihan SQL](</files/pdf/teaching-materials/dbms/11 - Latihan SQL.pdf>)
 - [13. NoSQL dan JSON Query](</files/pdf/teaching-materials/dbms/13 - NoSQL dan Query JSON pada PostgreSQL.pdf>)
+
+More materials are coming soon - I'm continuously updating the teaching materials. Feel free to check back for the latest updates.
