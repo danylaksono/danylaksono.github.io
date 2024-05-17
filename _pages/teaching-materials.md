@@ -1,59 +1,52 @@
 ---
 permalink: /teaching-materials/
 title: "Teaching Materials"
-header: 
+header:
   og_image: "teaching/pdp.png"
 ---
 
-## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Poli 891: Lab for Advanced Political Data Science
-{: #political-data-science }
-- [Programming Style](/files/html/teaching-materials/R_Style_Guide)
-- [Functional Programming in R](/files/html/teaching-materials/Functional_Programming)
-- [Multilevel Linear Models](/files/html/teaching-materials/Multilevel_Linear_Models)
-  - [Individual Exercise Solution](/files/html/teaching-materials/Multilevel_Linear_Models_Key.html)
-- [Multilevel Generalized Linear Models](/files/html/teaching-materials/Multilevel_GLMs)
-  - [Individual Exercise Solution](/files/html/teaching-materials/Multilevel_GLMs_Key.html)
-- [Multilevel Models for Correlated Data](/files/html/teaching-materials/NLME)
-- [Multilevel Regression with Poststratification](/files/html/teaching-materials/MRP)
-  - [Individual Exercise Solution](/files/html/teaching-materials/MRP_key.html)
-- [High Performance Computing](/files/html/teaching-materials/Cluster)
-- [Working with Strings](/files/html/teaching-materials/Strings)
-  - [Individual Exercise Solution](/files/html/teaching-materials/Strings_Key.html)
-- [Structural Topic Models](/files/html/teaching-materials/STM)
-  - [Individual Exercise Solution](/files/html/teaching-materials/STM_Key.html)
-- [Item Response Theory Models](/files/html/teaching-materials/IRT)
-  - [Individual Exercise Solution](/files/html/teaching-materials/IRT_Key.html)
-- [Performance, Optimization, and Parallelization](/files/html/teaching-materials/Performance_and_Optimization)
-- [Regression and Classification Trees](/files/html/teaching-materials/Trees)
-  - [Individual Exercise Solution](/files/html/teaching-materials/Trees_Key.html)
-- [Elastic Net, LASSO, and Ridge Regression](/files/html/teaching-materials/Elastic_Net)
-  - [Individual Exercise Solution](/files/html/teaching-materials/Elastic_Net_Key.html)
-- [Latent Space Networks](/files/html/teaching-materials/Latent_Networks)
+## Teaching Materials
 
-## <i class="fas fa-fw fa-chart-bar" aria-hidden="true"></i> Poli 281: Quantitative Research in Political Science
-{: #quant-political-science }
-- [Introduction to R](/files/pdf/teaching-materials/281 1-15.pdf)
-- [Working with Data in R](/files/pdf/teaching-materials/281 1-22.pdf)
-- [Writing R Scripts](/files/pdf/teaching-materials/281 1-24_R_Scripts.pdf)
-- [Visualizing Discrete and Continuous Data](/files/pdf/teaching-materials/281 2-5_Hockey.pdf)
+All the following teaching materials are given in Bahasa. Some corresponding recordings can be found in my [Youtube Channel](https://www.youtube.com/@danylaksono). The numbers correspond to the week I'm teaching the materials.
 
-## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Poli 891: Machine Learning
-{: #machine-learning }
-- [Artificial Neural Networks](/files/html/teaching-materials/Artificial Neural Networks)
+Feel free to use these materials in your own teaching or research, _with due attribution_. If you have any questions or feedback, please don't hesitate to reach out.
 
-## <i class="fas fa-fw fa-globe-africa" aria-hidden="true"></i> PS 3090: The Scientific Study of Civil Wars
-{: #civil-wars }
-- [Regression in 10 Minutes](/files/pdf/teaching-materials/3090 1-27.pdf)
-- [What's in a War?](/files/pdf/teaching-materials/3090 1-29.pdf)
+## <i class="fas fa-fw fa-code" aria-hidden="true"></i> SIG Berbasis Web
 
-## <i class="fas fa-fw fa-globe-africa" aria-hidden="true"></i> PS 3171: International Conflict Management and Resolution
-{: #conflict-management }
-- [Measuring the Democratic Peace](/files/pdf/teaching-materials/3171 9-10.pdf)
+{: #sig-berbasis-web }
 
-## <i class="fas fa-fw fa-chart-area" aria-hidden="true"></i> ICPSR: Introduction to Applied Bayesian Modeling
-{: #intro-bayes }
-- [Using Stan to Estimate Bayesian Models](/files/html/teaching-materials/Stan_Lab)
+- [00. Pengantar SIG Berbasis Web](</files/pdf/teaching-materials/sigweb/01. Pengantar Praktikum SIG Berbasis Web.pdf>)
+- [01. Cara Kerja Internet](</files/pdf/teaching-materials/sigweb/02. Minggu 1 - Cara Kerja Internet.pdf>)
+- [02. Bahasa Internet](</files/pdf/teaching-materials/sigweb/03. Minggu 2 - Bahasa Internet, HTML dan CSS.pdf>)
+- [03. Javascript](</files/pdf/teaching-materials/sigweb/04. Minggu 3 - Javascript.pdf>)
+- [03. Latihan Javascript](</files/pdf/teaching-materials/sigweb/05. Minggu 3 - Praktek Latihan Javascript.pdf>)
+- [04. Framework CSS](</files/pdf/teaching-materials/sigweb/06. Minggu 4 - Bootstrap Framework.pdf>)
+- [05. Slippy Map dan Javascript Map Library](</files/pdf/teaching-materials/sigweb/07. Minggu 5 - JS Map API - LeafletJS.pdf>)
+- [06. Integrasi Peta dan Data GeoJSON](</files/pdf/teaching-materials/sigweb/08. Minggu 6 - LeafletJS dan GeoJSON.pdf>)
+- [07. Enterprise GIS](</files/pdf/teaching-materials/sigweb/09. Minggu 7 - Enterprise GIS dengan ArcGIS.pdf>)
+- [08. Server-side scripting](</files/pdf/teaching-materials/sigweb/10. Minggu 8 - Server-side scripting dengan PHP.pdf>)
+- [09. Location-based Service](</files/pdf/teaching-materials/sigweb/11. Minggu 9 - Location Based Service.pdf>)
+- [10. Mobile GIS](</files/pdf/teaching-materials/sigweb/12. Minggu 10 - Aplikasi Mobile GIS.pdf>)
+- [11. Geospatial Data Server](</files/pdf/teaching-materials/sigweb/13. Minggu 11 - GIS Server dan Interoperabilitas.pdf>)
 
-## <i class="fas fa-fw fa-globe-africa" aria-hidden="true"></i> Peace Science 2018: Measurement Workshop
-{: #peace-science }
-- [Item Response Theory Models](/files/html/teaching-materials/PSS_IRT)
+## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Infrastruktur Informasi Geospasial
+
+{: #infrastruktur-iig }
+
+- [08. OpenGIS Specifications](</files/pdf/teaching-materials/iig/01. Minggu 8 - OpenGIS Specification.pdf>)
+- [09. Katalog Unsur Geospasial Indonesia](</files/pdf/teaching-materials/iig/02. Minggu 9 - KUGI.pdf>)
+- [10. Geoportal](</files/pdf/teaching-materials/iig/03. Minggu 10 - Geoportal.pdf>)
+- [11. Desain Arsitektur Geoportal](</files/pdf/teaching-materials/iig/04. Minggu 11 - Desain Geoportal.pdf>)
+- [11. Proses Bisnis Geoportal](</files/pdf/teaching-materials/iig/05. Minggu 12 - Proses Bisnis Geoportal.pdf>)
+
+## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Manajemen Basisdata
+
+{: #manajemen-basisdata }
+
+- [01. Pengantar Basisdata](</files/pdf/teaching-materials/dbms/01 - Pengantar Praktikum Sistem Basisdata.pdf>)
+- [02. Konsep Dasar Tabel dan Entitas](</files/pdf/teaching-materials/dbms/02 - Konsep Dasar Tabel dan Entitas.pdf>)
+- [03. Normalisasi Basisdata](</files/pdf/teaching-materials/dbms/03 - Normalisasi Basisdata.pdf>)
+- [04. Relationship dan Cardinality](</files/pdf/teaching-materials/dbms/04 - Relationship dan Cardinality.pdf>)
+- [05. Notasi diagram dan Pemodelan ER](</files/pdf/teaching-materials/dbms/05 - Notasi Diagram dan Pemodelan ER.pdf>)
+- [11. Latihan SQL](</files/pdf/teaching-materials/dbms/11 - Latihan SQL.pdf>)
+- [13. NoSQL dan JSON Query](</files/pdf/teaching-materials/dbms/13 - NoSQL dan Query JSON pada PostgreSQL.pdf>)
