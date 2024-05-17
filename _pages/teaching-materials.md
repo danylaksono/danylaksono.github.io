@@ -7,7 +7,7 @@ header:
 
 All the following teaching materials are given in Bahasa. Some corresponding recordings can be found in my [Youtube Channel](https://www.youtube.com/@danylaksono). The numbers correspond to the week I'm teaching the materials.
 
-Feel free to use these materials in your own teaching or research, _with due attribution_. If you have any questions or feedback, please don't hesitate to reach out.
+Feel free to use these materials in your own teaching or research **with due attribution**. If you have any questions or feedback, please don't hesitate to reach out.
 
 ## <i class="fas fa-fw fa-code" aria-hidden="true"></i> SIG Berbasis Web
 
