@@ -5,7 +5,7 @@ header:
   og_image: "teaching/pdp.png"
 ---
 
-All the following teaching materials are given in Bahasa. Some corresponding recordings can be found in my [Youtube Channel](https://www.youtube.com/@danylaksono). The numbers correspond to the week I'm teaching the materials.
+All the following teaching materials are given in Bahasa. The numbers correspond to the week I'm teaching the materials. Some courses' recordings can also be found in my [YouTube Channel](https://www.youtube.com/@danylaksono).
 
 Feel free to use these materials in your own teaching or research **with due attribution**. If you have any questions or feedback, please don't hesitate to reach out.
 
@@ -48,5 +48,3 @@ Feel free to use these materials in your own teaching or research **with due att
 - [05. Notasi diagram dan Pemodelan ER](</files/pdf/teaching-materials/dbms/05 - Notasi Diagram dan Pemodelan ER.pdf>)
 - [11. Latihan SQL](</files/pdf/teaching-materials/dbms/11 - Latihan SQL.pdf>)
 - [13. NoSQL dan JSON Query](</files/pdf/teaching-materials/dbms/13 - NoSQL dan Query JSON pada PostgreSQL.pdf>)
-
-More materials are coming soon - I'm continuously updating the teaching materials. Feel free to check back for the latest updates.
