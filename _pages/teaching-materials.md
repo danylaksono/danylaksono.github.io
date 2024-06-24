@@ -48,3 +48,14 @@ Feel free to use these materials in your own teaching or research **with due att
 - [05. Notasi diagram dan Pemodelan ER](</files/pdf/teaching-materials/dbms/05 - Notasi Diagram dan Pemodelan ER.pdf>)
 - [11. Latihan SQL](</files/pdf/teaching-materials/dbms/11 - Latihan SQL.pdf>)
 - [13. NoSQL dan JSON Query](</files/pdf/teaching-materials/dbms/13 - NoSQL dan Query JSON pada PostgreSQL.pdf>)
+
+I also wrote some tutorials for lectures in and outside the classes. Here are some of them:
+
+- Panduan FOSS4GIS: [link](https://www.danylaksono.com/panduan-fossgis/intro.html)
+- Geospatial Data Science Crash Course: [link](https://github.com/danylaksono/gds-crashcourse). Some sessions can be found in my [YouTube Channel](https://www.youtube.com/@danylaksono).
+- ArcGIS Notebook tutorial: [link](https://danylaksono.com/docs/arcgis-notebook)
+- Pengantar Inderaja: [link](https://danylaksono.com/docs/inderaja)
+- Panduan OpenCV: [link](https://github.com/danylaksono/OpenCV-PCD). This work was part of Digital Image Processing course in Geodetic Engineering Department, UGM.
+- Panduan Webgis: [link](https://www.danylaksono.com/panduan-webgis/). This is a work in progress.
+
+Apparently, I randomly uploaded some of my presentations to [SlideShare](https://www.slideshare.net/DanyLaksono/presentations). You can find some more materials there.
