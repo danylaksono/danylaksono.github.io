@@ -49,6 +49,8 @@ Feel free to use these materials in your own teaching or research **with due att
 - [11. Latihan SQL](</files/pdf/teaching-materials/dbms/11 - Latihan SQL.pdf>)
 - [13. NoSQL dan JSON Query](</files/pdf/teaching-materials/dbms/13 - NoSQL dan Query JSON pada PostgreSQL.pdf>)
 
+## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Other Tutorials and Slides
+
 I also wrote some tutorials for lectures in and outside the classes. Here are some of them:
 
 - Panduan FOSS4GIS: [link](https://www.danylaksono.com/panduan-fossgis/intro.html)
