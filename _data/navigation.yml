@@ -12,8 +12,8 @@ main:
   # - title: "Software"
   # url: /software/
 
-  - title: "Posts"
-    url: https://blog.danylaksono.com
+  # - title: "Posts"
+  #   url: https://blog.danylaksono.com
 
   - title: "CV"
     url: /cv/
