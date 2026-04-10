@@ -8,7 +8,7 @@ header:
 ---
 
 As a researcher in the Laboratory of Geoinformatics and Geospatial Information Infrastructure, my research
-covers the many faces of geospatial data acquisition, analysis, visualization and utilization.
+covers the many faces of geospatial data acquisition, analysis, visualisation and their utilisation.
 
 My works on visualisation can be found here: [My Observable Page](https://observablehq.com/@danylaksono).
 
