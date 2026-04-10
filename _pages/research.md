@@ -7,7 +7,7 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-## Academic research
+## Academic Research
 
 As a researcher in the Laboratory of Geoinformatics and Geospatial Information Infrastructure, my research
 covers the many faces of geospatial data acquisition, analysis, visualisation and their utilisation.
