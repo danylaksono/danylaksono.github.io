@@ -7,14 +7,13 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-# Academic research
+## Academic research
 
 As a researcher in the Laboratory of Geoinformatics and Geospatial Information Infrastructure, my research
 covers the many faces of geospatial data acquisition, analysis, visualisation and their utilisation.
 
-My works on visualisation can be found here: [My Observable Page](https://observablehq.com/@danylaksono).
+My works can mostly be found on my [Github page](https://github.com/danylaksono/). Other works on visualisation can also be found here: [My Observable Page](https://observablehq.com/@danylaksono).
 
-Other works can be found on my [Github page](https://github.com/danylaksono/).
 
 Over the course of my PhD, I have developed a sequence of interactive visual analytics approaches to support local decarbonisation planning and energy transition decision-making. My early work focused on gridded-glyphmaps for geographic multicriteria decision analysis, using multivariate geospatial visualisations to highlight suitable locations for decarbonisation and to support transparent stakeholder discussion.
 
@@ -22,11 +21,11 @@ Over the course of my PhD, I have developed a sequence of interactive visual ana
 
 This approach progressed to planning dashboards that make black-box decarbonisation modelling visible and interactive, so users can compose and compare their own scenarios with budgets, low-cost technologies, deployment timing, and multi-scale location data. This includes applications for local authority energy planning and exploratory decision support for EV charging infrastructure siting, as well as research on natural language and LLM-assisted scenario composition.
 
-![Visual MCDA](/images/research/dashboard-layout.png)
+![Visual MCDA](/images/research/dashboard_layout.png)
 
 This portfolio also encompasses multivariate area-based statistical cartography, reusable visualisation study methods, and applied research with industry partners. Together, these studies combine geospatial simulation, multiscale visualisation, and iterative practitioner feedback to create more explainable, actionable, and collaborative decarbonisation strategies.
 
-# Personal projects
+#3 Personal projects
 
 Some of my personal projects include:
 
