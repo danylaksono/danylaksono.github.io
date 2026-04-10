@@ -25,7 +25,7 @@ This approach progressed to planning dashboards that make black-box decarbonisat
 
 This portfolio also encompasses multivariate area-based statistical cartography, reusable visualisation study methods, and applied research with industry partners. Together, these studies combine geospatial simulation, multiscale visualisation, and iterative practitioner feedback to create more explainable, actionable, and collaborative decarbonisation strategies.
 
-#3 Personal projects
+## Personal Projects
 
 Some of my personal projects include:
 
